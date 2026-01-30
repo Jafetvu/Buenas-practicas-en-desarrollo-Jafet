@@ -1,0 +1,9 @@
+{
+    "API_KEY": "sk_12345abcdef67823GHIJKLMNYU",
+    "DB_CONNECTION_STRING": "Server=localhost;Database=usuarios_db;User=root;Password=admin123;",
+    "MAX_REGISTROS": 1000,
+    "ADMIN_EMAIL": "admin@sistema.com",
+    "ADMIN_PASSWORD": "SuperSecure123!",
+    "DEBUG_MODE": true,
+    "SERVER_IP": "192.168.1.100"
+}
